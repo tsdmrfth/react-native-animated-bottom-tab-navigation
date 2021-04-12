@@ -1,0 +1,22 @@
+{
+  "name": "react-native-animated-bottom-tab-navigation-example",
+  "displayName": "AnimatedBottomTabNavigation Example",
+  "expo": {
+    "name": "react-native-animated-bottom-tab-navigation-example",
+    "slug": "react-native-animated-bottom-tab-navigation-example",
+    "description": "Example app for react-native-animated-bottom-tab-navigation",
+    "privacy": "public",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
